@@ -254,7 +254,7 @@
                         aria-hidden="true"><i class="fa fa-close"></i></span></button>
                 <h4 class="modal-title" id="myModalLabel-1">Desarrollador JUNIOR</h4>
                 <h6>
-                    <small>May 2018 - Oct 2018</small>
+                    <small>Jul 2016 - Feb 2019</small>
                 </h6>
             </div>
             <!--MODAL BODY-->
@@ -799,7 +799,7 @@
                             aria-hidden="true"><i class="fa fa-close"></i></span></button>
                     <h4 class="modal-title" id="myModalLabel-3">Desarrollador Independiente</h4>
                     <h6>
-                        <small>Nov 2019 - Dic 2020</small>
+                        <small>Dic 2020 --- </small>
                     </h6>
                 </div>
                 <!--MODAL BODY-->
@@ -809,7 +809,8 @@
                         Realizo proyectos y diseños de páginas web, usando tecnologías como  
                         HTML, CSS, Bootstrap y JavaScript, Wordpress. He colaborado en proyectos como: <br>
                         <a href="https://travelinetma.com.co/" target="_blank">travelinetma.com.co</a><br>
-                        <a href="https://www.innovationlanguageschool.com/" target="_blank">innovationlanguageschool.com</a>
+                        <a href="https://www.innovationlanguageschool.com/" target="_blank">innovationlanguageschool.com</a><br>
+                        Entre otros y algunas plataformas de uso privado para empresas de servicios publicos etc...
                           
                         
                 </div>
@@ -1544,12 +1545,12 @@
 <footer>
     <div class="container">
         <!--FOOTER DETAILS-->
-        {{-- <p class="text-center">
-            © Material CV. All right reserved by
-            <a href="http://trimatrixlab.com/" target="_blank">
-                <strong>Trimatrixlab</strong>
+        <p class="text-center">
+            © Developer by
+            <a href="" target="_blank">
+                <strong>Javier Ruiz H</strong>
             </a>
-        </p> --}}
+        </p>
     </div>
 </footer>
 
