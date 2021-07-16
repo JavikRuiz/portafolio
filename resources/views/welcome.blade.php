@@ -223,7 +223,7 @@
                         <p>
                            ¡Hola! Soy Javier Ruiz. Ingeniero Junior en Análisis y Desarrollo de Sistemas
                             de Información con más de 2 años de experiencia en desarrollo Web, proyectos 
-                            ApiRest con Laravel, Angular y Gestores de base de datos MYSQL, FIREBASE. 
+                            ApiRest con Laravel, Angular y Gestores de base de datos MYSQL, manejo de control de Versiones Git. 
                             Experiencia en Diseño de páginas web, conocimientos en HTML, CSS, BOOTSTRAP y 
                             lenguajes de programación como PHP, JAVA, JAVASCRIPT, TYPESCRIPT.
 
@@ -286,7 +286,7 @@
                     <!-- SEND BUTTON -->
                     <div class="contact-send">
                         <button id="submit" name="contactSubmit" type="submit" value="Submit"
-                                class="btn waves-effect">Send
+                                class="btn waves-effect">Enviar
                         </button>
                     </div>
                 </form>
@@ -778,7 +778,7 @@
                         con lenguajes de programación PHP y JavaScript. 
                         En el otro proyecto se desarrollo como ApiRestFull usando Laravel como Backend y 
                         Angular como Frontend, con lenguajes de programacion PHP, TypeScript y 
-                        MySQL como gestor de base de datos, Control de Versiones GitHub.
+                        MySQL como gestor de base de datos, Manejo de Control de Versiones Git.
                     </p>
                 </div>
                 <!--MODAL FOOTER-->
