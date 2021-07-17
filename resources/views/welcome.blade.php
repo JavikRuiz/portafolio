@@ -330,7 +330,7 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Complete mi escolaridad en esta institución, alcanzando el título de bachiller técnico en comercio, complete con éxito todos los logros sin ninguna consecuencia y obteniendo buenas calificaciones.
+                            Complete mi escolaridad en esta institución, alcanzando el título de bachiller técnico en comercio, complete con éxito todos los logros y obteniendo buenas calificaciones.
                         </p>
                         <!-- BUTTON TRIGGER MODAL -->
                         <!-- <a href="#" class="modal-dot" data-toggle="modal" data-target="#myModal-1">
@@ -360,7 +360,7 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Complete un técnico en esta prestigiosa institución, alcanzando el título de técnico laboral en electrónica, complete con éxito todos los logros sin ninguna consecuencia, obteniendo altas calificaciones.
+                            Complete un técnico en esta prestigiosa institución, alcanzando el título de técnico laboral en electrónica, complete con éxito todos los logros, obteniendo altas calificaciones.
                         </p>
                     </div>
                 </div>
@@ -386,7 +386,7 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Complete la carrera en Análisis y Desarrollo de Sistemas de Información, alcanzando este título y graduándome a satisfacción, complete con éxitos todos los logros, obteniendo muy buenas calificaciones.
+                            Complete la carrera en Análisis y Desarrollo de Sistemas de Información, alcanzando este título y graduándome a satisfacción, complete con éxitos todos los logros, obteniendo muy buenas calificaciones y la oportunidad de vincularme a esta institucion para la practica.
                         </p>
 
                     </div>
@@ -401,7 +401,7 @@
                 <div class="card timeline-content">
                     <div class="card-content">
                         <!-- TIMELINE TITLE -->
-                        <h6 class="timeline-title">Ingenieria de Sstemas</h6>
+                        <h6 class="timeline-title">Ingenieria de Sistemas</h6>
                         <!-- TIMELINE TITLE INFO -->
                         <div class="timeline-info">
                             <h6>
@@ -413,7 +413,7 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Curso la carrera en Ingeniería de Sistemas, con gran determinación para alcanzar el título en Ingeniero de Sistemas voy completando con éxito todos los logros.
+                            Curso la carrera en Ingeniería de Sistemas, con gran determinación para alcanzar el título y desempeñarme profesionalmente como Ingeniero de Sistemas, voy cursando ultimos semestres.
                         </p>
 
                     </div>
@@ -808,6 +808,7 @@
                     <p>
                         Realizo proyectos y diseños de páginas web, usando tecnologías como  
                         HTML, CSS, Bootstrap y JavaScript, Wordpress. He colaborado en proyectos como: <br>
+                        <a href="https://appsstars.com.co/" target="_blank">appsstars.com.co</a><br>
                         <a href="https://travelinetma.com.co/" target="_blank">travelinetma.com.co</a><br>
                         <a href="https://www.innovationlanguageschool.com/" target="_blank">innovationlanguageschool.com</a><br>
                         Entre otros y algunas plataformas de uso privado para empresas de servicios publicos etc...
