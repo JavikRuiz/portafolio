@@ -125,7 +125,7 @@
 
                     <!-- PROFILE PICTURE -->
                     <div id="profile" class="right">
-                        <img alt="profile-image" class="img-responsive" src="{{asset('images/profile/javi.jpg')}}">
+                        <img alt="profile-image" class="img-responsive" src="{{asset('img/personal/javi.jpg')}}">
                         <div class="slant"></div>
 
                         <!--EMPTY PLUS BUTTON-->
