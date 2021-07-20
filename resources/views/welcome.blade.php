@@ -45,7 +45,7 @@
 </head>
 <body>
 
-
+    
 <!--==========================================
                   PRE-LOADER
 ===========================================-->
@@ -330,7 +330,8 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Complete mi escolaridad en esta institución, alcanzando el título de bachiller técnico en comercio, complete con éxito todos los logros y obteniendo buenas calificaciones.
+                            Termine mi escolaridad en esta institución, alcanzando el título de bachiller técnico en comercio,
+                            complete con éxito todos los logros obteniendo buenas calificaciones.
                         </p>
                         <!-- BUTTON TRIGGER MODAL -->
                         <!-- <a href="#" class="modal-dot" data-toggle="modal" data-target="#myModal-1">
@@ -360,7 +361,8 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Complete un técnico en esta prestigiosa institución, alcanzando el título de técnico laboral en electrónica, complete con éxito todos los logros, obteniendo altas calificaciones.
+                            Termine un técnico en esta prestigiosa institución, alcanzando el título de 
+                            técnico laboral en electrónica, complete con éxito todos los logros.
                         </p>
                     </div>
                 </div>
@@ -386,7 +388,9 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Complete la carrera en Análisis y Desarrollo de Sistemas de Información, alcanzando este título y graduándome a satisfacción, complete con éxitos todos los logros, obteniendo muy buenas calificaciones y la oportunidad de vincularme a esta institucion para la practica.
+                            Termine la carrera en Análisis y Desarrollo de Sistemas de Información, alcanzando 
+                            este título y graduándome a satisfacción, complete con éxitos todos los logros,
+                            obteniendo muy buenas calificaciones y la oportunidad de vincularme a esta institucion para la practica.
                         </p>
 
                     </div>
@@ -413,7 +417,8 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Curso la carrera en Ingeniería de Sistemas, con gran determinación para alcanzar el título y desempeñarme profesionalmente como Ingeniero de Sistemas, voy cursando ultimos semestres.
+                            Curso la carrera en Ingeniería de Sistemas, con gran determinación para alcanzar el título y
+                            desempeñarme profesionalmente como Ingeniero de Sistemas, voy cursando ultimos semestres.
                         </p>
 
                     </div>
@@ -1533,11 +1538,19 @@
 </section> --}}
 
 <!--==========================================
+                    WHATSAPP
+===========================================-->
+<a href="https://api.whatsapp.com/send?phone=573222942073&text=Hola!&nbsp;me&nbsp;podrias&nbsp;colaborar?" class="appWhatsapp" target="_blanck">
+    <img src="{{asset('img/social/wp.png')}}" alt="" id="whatsapp">
+</a>
+
+<!--==========================================
                      SCROLL TO TOP
 ===========================================-->
 <div id="scroll-top">
     <div id="scrollup"><i class="fa fa-angle-up"></i></div>
 </div>
+
 
 <!--==========================================
                       FOOTER

@@ -45,3 +45,18 @@
     border-radius: 100px;
     background: #06A763;
 }
+.appWhatsapp {
+    position: fixed;
+    right: 15px;
+    bottom: 80px;
+    width: 50px;
+    z-index: 1000;
+}
+
+.appWhatsapp #whatsapp {
+    width: 100%;
+    height: auto;
+}
+.timeline-title{
+    color: #06a763 !important;
+}
